@@ -1,6 +1,6 @@
 ### Sanskriti Shindadkar
 
-Bioengineering (UCLA) → MEng (Berkeley). I work on models, data pipelines, and ML — plus the occasional game or tool.
+Bioengineering (UCLA) → MEng (Berkeley). I work on models, data pipelines, and (tentatively!) small ML projects. And of course, in the era of Claude Code, various personal projects e.g. minigames.
 
 [website](https://sanskriti-ss.github.io/) · [scholar](https://scholar.google.ca/citations?user=VUKu86cAAAAJ&hl=en) · [linkedin](https://ca.linkedin.com/in/sanskriti)
 
